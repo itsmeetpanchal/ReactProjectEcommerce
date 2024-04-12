@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Meet",
+      "lname": "Panchal",
+      "email": "meet@example.com",
+      "password": "12345678"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
